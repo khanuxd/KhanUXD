@@ -1,7 +1,7 @@
 <h1 align='center'><strong>Hello from Khan 👋</strong></h1>
 <p align='center'>UX Designer &nbsp;&nbsp;|&nbsp;&nbsp; Full-Stack Development Student &nbsp;&nbsp;|&nbsp;&nbsp; Creative Thinker</p>
 
-<br><br>
+<br>
 
 <p align='center'>Languages and Tools</p>
 <p align='center'>
@@ -14,7 +14,7 @@
 <img height="40" title="Database" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/database.png?raw=true">&nbsp;&nbsp;
 </p>
 
-<br><br>
+<br>
 
 <p align='center'>On Social Media</p>
 <p align='center'>

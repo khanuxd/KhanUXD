@@ -1,1 +1,25 @@
-# Hi, This is Khan 👋 🇫🇮
+<h1 align='center'><strong>Hello from Khan 👋</strong></h1>
+<p align='center'>UX Designer | Full-Stack Development Student</p>
+
+<br><br>
+
+<h1 align='center'>Languages and Tools</h1>
+<span align='center'>
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/html5.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/css3.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/javascript.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/reactjs.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/php.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/mysql.png?raw=true">&nbsp;&nbsp;
+<img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/database.png?raw=true">&nbsp;&nbsp;
+</span>
+
+<br><br>
+
+<h1 align='center'>On Social Media</h1>
+<span align='center'>
+<a href="https://www.linkedin.com/in/fayejkhan/" target="_blank"><img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/KhanUXD" target="_blank"><img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://khanuxd.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:khanuxd@gmail.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/khanuxd/Khan_Fayjul/master/img/email.png?raw=true"></a>&nbsp;&nbsp;
+</span>

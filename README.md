@@ -47,7 +47,6 @@ It's me Khan! A tech enthusiast and UI/UX developer who write codes to implement
 #### Back-end Development
 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)
@@ -55,11 +54,16 @@ It's me Khan! A tech enthusiast and UI/UX developer who write codes to implement
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 
 #### IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+#### Others
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat) 
+![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) 
+![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?logo=netlify&logoColor=white&style=flat)
 
 #### Most Used Languages
 

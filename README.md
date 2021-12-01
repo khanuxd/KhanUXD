@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=khanuxd.khanuxd)
 
-It's me Khan! A tech enthusiast and UI/UX developer who write codes to implement UI for the front-end development.
+I'm Khan! A tech enthusiast and UI/UX developer who write codes to implement UI and functionality for the front-end development.
 
 <br>
 
@@ -64,7 +64,9 @@ It's me Khan! A tech enthusiast and UI/UX developer who write codes to implement
 
 #### IDE
 
+<span>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" height="30" />
+</span>
 
 <br>
 
